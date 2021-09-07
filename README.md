@@ -8,7 +8,7 @@ Hyderabad is the capital of southern India's Telangana state. A major center for
 
 <b> TECHNOLOGY INDUSTRY 
 
-<hr>
+---
 
 Travel to Hyderabad from Maryville on Airbus
 1. Drive from Maryville to Kansas City International Airport.
@@ -34,7 +34,7 @@ Travel to Hyderabad from Maryville on Airbus
 
 [AboutMe](https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md)
 
-<hr>
+---
 
 | Food/Drink | Location | Price |
 | ---| ---| ---: |
@@ -43,4 +43,5 @@ Travel to Hyderabad from Maryville on Airbus
 | Cherry Limeade Slush | Sonic | 1.99 |
 | Pacific Veggie | Domino's | 12.34 |
 
-<hr>
+---
+
