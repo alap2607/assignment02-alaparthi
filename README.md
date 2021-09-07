@@ -31,4 +31,4 @@ Travel to Hyderabad from Maryville on Airbus
 * Night Life
 * Street Food
 
-[AboutMe.md](https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md)
+[AboutMe](https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md)
