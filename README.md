@@ -17,11 +17,16 @@ Travel to Hyderabad from Maryville on Airbus
     2. Atlanta to Paris.
     3. Paris to New Delhi.
     4. New Delhi to Hyderabad.
-3. Arrived at Hyderabad.
+3. Arrived at Hyderabad i.e. Rajiv Gandhi International Airport.
 
-* 
-* 
-    * 
-    * 
-    * 
-* 
+* Historical Places
+    * Charminar
+    * Seven Toombs
+    * Museum
+    * Chowmahalla Palace
+* Restaurants
+    * Mandi  
+    * Biryani's
+    * Kebabs
+* Night Life
+* Street Food
