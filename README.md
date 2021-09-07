@@ -32,3 +32,10 @@ Travel to Hyderabad from Maryville on Airbus
 * Street Food
 
 [AboutMe](https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md)
+
+| Food/Drink | Location | Price |
+| ---| ---| ---: |
+| Chai Tea Latte | Starbucks | 3.89 |
+| Hash Browns | Mc Donald's | 1.09 |
+| Cherry Limeade Slush | Sonic | 1.99 |
+| Pacific Veggie | Domino's | 12.34 |
