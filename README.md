@@ -59,7 +59,7 @@ Travel to Hyderabad from Maryville on Airbus
 >
 > To Be Continued... <https://en.wikipedia.org/wiki/Gray_code>
 
-```int g (int n) {
+int g (int n) {
     return n ^ (n >> 1);
 }
 
