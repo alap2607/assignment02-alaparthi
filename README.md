@@ -45,3 +45,7 @@ Travel to Hyderabad from Maryville on Airbus
 
 ---
 
+> "No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader."
+> *italicized text* Robert Frost
+> “Read a thousand books, and your words will flow like a river.”
+> *italicized text* Lisa See
