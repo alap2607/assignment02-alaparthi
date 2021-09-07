@@ -58,3 +58,9 @@ Travel to Hyderabad from Maryville on Airbus
 > The reflected binary code (RBC), also known just as reflected binary (RB) or Gray code after Frank Gray, is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).
 >
 > To Be Continued... <https://en.wikipedia.org/wiki/Gray_code>
+
+```int g (int n) {
+    return n ^ (n >> 1);
+}
+
+Continued.. <https://cp-algorithms.com/algebra/gray-code.html>
