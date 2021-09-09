@@ -33,3 +33,42 @@ Travel to Hyderabad from Maryville on Airbus
 
 [AboutMySelf](https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md)
 
+---
+
+| Food/Drink | Location | Price |
+| ---| ---| ---: |
+| Chai Tea Latte | Starbucks | 3.89 |
+| Hash Browns | Mc Donald's | 1.09 |
+| Cherry Limeade Slush | Sonic | 1.99 |
+| Pacific Veggie | Domino's | 12.34 |
+
+---
+
+### Quotes About Writing
+
+> "No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader."
+> -*Robert Frost*
+>
+> “Read a thousand books, and your words will flow like a river.”
+> -*Lisa See*
+
+---
+
+> The reflected binary code (RBC), also known just as reflected binary (RB) or Gray code after Frank Gray, is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit).
+>
+> To Be Continued... <https://en.wikipedia.org/wiki/Gray_code>
+
+```
+int g (int n) {
+    
+    return n ^ (n >> 1);
+}
+
+```
+Continued.. <https://cp-algorithms.com/algebra/gray-code.html>
+
+
+
+
+
+About Myself <https://github.com/alap2607/assignment02-alaparthi/blob/main/AboutMe.md>
